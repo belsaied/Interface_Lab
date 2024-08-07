@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Interface_Lab\Interface_Lab\bin\Debug\Interface_Lab.exe.config
+C:\Users\Admin\source\repos\Interface_Lab\Interface_Lab\bin\Debug\Interface_Lab.exe
+C:\Users\Admin\source\repos\Interface_Lab\Interface_Lab\bin\Debug\Interface_Lab.pdb
+C:\Users\Admin\source\repos\Interface_Lab\Interface_Lab\obj\Debug\Interface_Lab.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Interface_Lab\Interface_Lab\obj\Debug\Interface_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Interface_Lab\Interface_Lab\obj\Debug\Interface_Lab.exe
+C:\Users\Admin\source\repos\Interface_Lab\Interface_Lab\obj\Debug\Interface_Lab.pdb
